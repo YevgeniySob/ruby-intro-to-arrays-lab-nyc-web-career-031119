@@ -19,11 +19,11 @@ def third_element(arr)
 end
 
 def first_element_with_array_methods(arr)
-  temp = arr.unshift
+  temp = arr.first
   return temp
 end
 
 def last_element_with_array_methods(arr)
-  temp = arr.pop
+  temp = arr.last
   return temp
 end
