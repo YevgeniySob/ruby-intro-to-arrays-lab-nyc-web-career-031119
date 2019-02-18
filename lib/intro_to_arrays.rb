@@ -8,4 +8,6 @@ end
 
 def first_element(arr)
   return arr[0]
+enddef first_element(arr)
+  return arr[0]
 end
