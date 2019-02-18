@@ -18,7 +18,8 @@ def first_element_with_array_methods(arr)
   temp = arr.unshift
   return temp
 end
-def first_element_with_array_methods(arr)
-  temp = arr.unshift
+
+def last_element_with_array_methods(arr)
+  temp = arr.pop
   return temp
 end
