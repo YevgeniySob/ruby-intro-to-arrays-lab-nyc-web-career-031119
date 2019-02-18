@@ -8,6 +8,8 @@ end
 
 def first_element(arr)
   return arr[0]
-enddef first_element(arr)
-  return arr[0]
+end
+
+def last_element(arr)
+  return arr[-1]
 end
